@@ -1,2 +1,2 @@
 # Xiaohongku
-联习使用GitHub
+联习使用readme
